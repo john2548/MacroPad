@@ -14,4 +14,5 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 - SPI header (circuit diagram)
 - flash memory (circuit diagram)
 - media controller / volume control (circuit diagram)
+- LCD screen (circuit diagram)
 - create breadboard prototype
