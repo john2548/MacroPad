@@ -6,5 +6,5 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 
 TODO:
 * Circuit Diagram
-**Add USB-C connector
+- Add USB-C connector
 * Ad Data ESD Protection
