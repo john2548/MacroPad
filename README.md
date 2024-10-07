@@ -9,8 +9,6 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 ## PARTS LIST
 
 ## TODO:
-- USB-C connector (circuit diagram)
-- data ESD protection (circuit diagram)
 - reset circuit (circuit diagram)
 - crystal oscillator (circuit diagram)
 - SPI header (circuit diagram)
