@@ -15,5 +15,10 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 - LCD screen (circuit diagram)
 - create breadboard prototype
 
+## NOTES:
+- since flash memory utilizes QSPI instead of the main, both SPI slots are open to use
+- SPI slot usage:
+    * SPI0: SPI interface for bootloader
+
 ## SECONDARY IDEAS:
 - include rgb to indicate if numlock is on or off, which basic profile is active, and which keys have macros available (if a key has a macro, it will be lit)
