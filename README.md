@@ -14,3 +14,6 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 - media controller / volume control (circuit diagram)
 - LCD screen (circuit diagram)
 - create breadboard prototype
+
+## SECONDARY IDEAS:
+- include rgb to indicate if numlock is on or off, which basic profile is active, and which keys have macros available (if a key has a macro, it will be lit)
