@@ -9,7 +9,6 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 ## PARTS LIST
 
 ## TODO:
-- media controller / volume control (circuit diagram)
 - LCD screen (circuit diagram)
 - create breadboard prototype
 
