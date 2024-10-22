@@ -18,6 +18,7 @@ this project uses the QMK firmware framework
 - order all parts necessary for the PCB
 - assemble PCB
 - test PCB
+- design custom plate
 
 ## PARTS LIST
 - Prototype:
