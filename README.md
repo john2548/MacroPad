@@ -20,8 +20,20 @@ the device is a standard numpad with an extra column that controls user generate
 ## PARTS LIST
 - Prototype:
   * RaspberryPi Pico
+  * W25Q128JVS 128 MBit (16MB) flash memory
 - PCB:
   * RP2040 MCU
+  * HRO-TYPE-C-31-M-12 USB-C connector
+  * W25Q128JVS 128 MBit (16MB) flash memory
+  * PRTR5VOU2X ESD protection
+  * ABM8-272-T3 crystal oscillator
+  * 22 SK6812MINI NeoPixel LEDs
+  * RT9080-33GJ5 LDO Voltage Regulators 2 A IQ, 600mA Low-Dropout Linear
+  * PEC11-4215F-S24 Rotary Encoder
+  * 1.3" 128x64 SH1106G SPI OLED Monochrome Display
+  * [INSERT LINE DRIVER HERE]
+  * 22 [INSERT KEYBOARD SWITCHES HERE]
+  * [INSERT LIST OF CAPACITORS AND RESISTORS HERE]
 
 ## NOTES:
 - since flash memory utilizes QSPI instead of the main, both SPI slots are open to use
