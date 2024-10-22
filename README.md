@@ -7,6 +7,8 @@ this github Repo holds all design info, code, and files pertaining to my Numberp
 
 the device is a standard numpad with an extra column that controls user generated macros and shortcuts. device also has an added rotary encoder which serves as a media controller. there is an OLED screen on the device to show the current macro profile and potentially other system info.
 
+this project uses the QMK firmware framework
+
 
 ## TODO:
 - create breadboard prototype
