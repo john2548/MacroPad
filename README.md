@@ -15,6 +15,12 @@ this project uses the QMK firmware framework
 - write code for the microcontroller
 - test design with breadboard prototype
 - finish PCB design and routing
+  * wire power and ground lines
+  * beef up power traces to .254 mm
+  * route reset circuit
+  * add decoupling capacitors (ugh)
+  * set up fill zones
+  * add mounting holes
 - order all parts necessary for the PCB
 - assemble PCB
 - test PCB
