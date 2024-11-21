@@ -21,6 +21,7 @@ this project uses the QMK firmware framework
   * add decoupling capacitors (ugh)
   * set up fill zones
   * add mounting holes
+  * add holes for RGB
 - order all parts necessary for the PCB
 - assemble PCB
 - test PCB
